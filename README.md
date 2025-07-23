@@ -1,6 +1,6 @@
 -  Hello World, I am Sakshi Kamble
 -  I’m interested in Data Science & Analytics
--  I’m currently learning PYTHON
+- 
 -  Reach me via contact no - 7020920103
 -  email id - sakshivkamble20@gmail.com
 
