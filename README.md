@@ -3,7 +3,7 @@
 - 
 -  Reach me via contact no - 7020920103
 -  email id - sakshivkamble20@gmail.com
-
+-  Linkedin - https://www.linkedin.com/in/sakshi-kamble20/
 <!---
 KambleSakshii/KambleSakshii is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 You can click the Preview link to take a look at your changes.
