@@ -1,6 +1,5 @@
 -  Hello World, I am Sakshi Kamble
 -  I’m interested in Data Science & Analytics
-- 
 -  Reach me via contact no - 7020920103
 -  email id - sakshivkamble20@gmail.com
 -  Linkedin - https://www.linkedin.com/in/sakshi-kamble20/
